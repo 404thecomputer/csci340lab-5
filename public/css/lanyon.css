@@ -38,16 +38,18 @@
 html,
 body {
   overflow-x: hidden;
+  font-family: 'Quantico';
+  color: chartreuse;
+  background-color: black;
 }
 
 html {
-  font-family: "PT Serif", Georgia, "Times New Roman", serif;
+  font-family: "Quantico";
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "PT Sans", Helvetica, Arial, sans-serif;
   font-weight: 400;
-  color: #313131;
+  color: lime;
   letter-spacing: -.025rem;
 }
 
@@ -97,20 +99,21 @@ h1, h2, h3, h4, h5, h6 {
   padding-top:    1rem;
   padding-bottom: 1rem;
   margin-bottom: 3rem;
-  border-bottom: 1px solid #eee;
+  border-bottom: 1px solid lime;
+  background-color: #290244;
 }
 .masthead-title {
   margin-top: 0;
   margin-bottom: 0;
-  color: #505050;
+  color: lime;
 }
 .masthead-title a {
-  color: #505050;
+  color: lime;
 }
 .masthead-title small {
   font-size: 75%;
   font-weight: 400;
-  color: #c0c0c0;
+  color: lime;
   letter-spacing: 0;
 }
 
