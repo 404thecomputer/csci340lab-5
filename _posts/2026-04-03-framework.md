@@ -1,0 +1,7 @@
+---
+layout: post
+author: Jake Nurkin
+title: Lab 9 - Entity Framework
+---
+As per the previous lab utilizing RazorPages, I found that this lab was very long and muddled in its structure, leading me to miss certain steps or not clearly understand certain things at first. I still haven't fully wrapped my head around migrations, as the tutorial wasn't very clear on how they keep up with data without having to reset the database to add something new. The structures of the classes seemed sound to me though, as I had worked with C# before in Interactive Game Development. From there, it was easy enough for me to add the Age field and set it up so that the tables can be sorted by Age by following the examples of other fields. It took me a while to find where the Grade enum was hidden though. 
+Making sure that each table matched up with the data and ids of other tables was a bit confusing at first, but I feel like with more practice in our team project will help me get more familiar with the software. Following this lab, I feel more prepared in creating frameworks for our team project. We haven't gotten the chance to discuss with our client what our framework should require, but I imagine our framework will revolve more around communication and points of outreach rather than storing things like grades and classes. Time will tell!
