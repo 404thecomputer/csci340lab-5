@@ -1,6 +1,5 @@
 # Setup
-title:               Jake's Bodacious Blog'
-tagline:             'My Blog'
+title:               Jake's Bodacious Blog
 description:         'Welcome to my awesome blog! Enjoy.'
 paginate:            5
 permalink:           pretty
