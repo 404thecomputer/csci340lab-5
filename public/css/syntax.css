@@ -5,7 +5,7 @@
 .highlight .o { color: #555 } /* Operator */
 .highlight .cm { color: #09f; font-style: italic } /* Comment.Multiline */
 .highlight .cp { color: #099 } /* Comment.Preproc */
-.highlight .c1 { color: #999; } /* Comment.Single */
+.highlight .c1 { color: #808080; } /* Comment.Single */
 .highlight .cs { color: #999; } /* Comment.Special */
 .highlight .gd { background-color: #fcc; border: 1px solid #c00 } /* Generic.Deleted */
 .highlight .ge { font-style: italic } /* Generic.Emph */
@@ -16,7 +16,7 @@
 .highlight .gp { color: #009; } /* Generic.Prompt */
 .highlight .gs { } /* Generic.Strong */
 .highlight .gu { color: #030; } /* Generic.Subheading */
-.highlight .gt { color: #9c6 } /* Generic.Traceback */
+.highlight .gt { color: #7ca653 } /* Generic.Traceback */
 .highlight .kc { color: #069; } /* Keyword.Constant */
 .highlight .kd { color: #069; } /* Keyword.Declaration */
 .highlight .kn { color: #069; } /* Keyword.Namespace */
